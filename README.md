@@ -1,0 +1,64 @@
+# GameBoard V2 — The Ultimate Custom Keyboard Experience
+
+Welcome to the GameBoard V2 project! This is more than just a keyboard—it's my vision of the perfect daily driver: a full 105-key ISO layout, tailored to my preferences, and featuring a smooth rotary encoder for intuitive volume control. Every detail, from the color palette to the hardware, is chosen for both style and performance.
+
+---
+
+## Gallery
+
+Take a look at some highlights from the build:
+
+![GameBoard V2 BG](/Images/GameBoard%20V2%20BG.png)  
+![GameBoard V2 3D](/Images/GameBoard%20V2%203D.png)  
+![GameBoard V2 NBG](/Images/GameBoard%20V2%20NBG.png)  
+![GameBoard V2 PCB](/Images/GameBoard%20V2%20PCB.png)  
+![GameBoard V2 Schematic](/Images/GameBoard%20V2%20Schematic.png)  
+
+---
+
+## Bill of Materials (BOM)
+
+| Item                | Price (£) | Price ($) | Link                                                          |
+|---------------------|-----------|-----------|---------------------------------------------------------------|
+| Stab Lube           | 1.52      | 2.05      | [Buy](https://www.aliexpress.com/item/1005008432501049.html)  |
+| Keycaps             | 7.41      | 10.00     | [Buy](https://www.aliexpress.com/item/1005006922735195.html)  |
+| Stabilisers (Stabs) | 6.39      | 8.63      | [Buy](https://www.aliexpress.com/item/32719735398.html)       |
+| Copper Wick         | 1.25      | 1.69      | [Buy](https://www.aliexpress.com/item/1005007589879020.html)  |
+| Grip Tape           | 2.66      | 3.59      | [Buy](https://www.aliexpress.com/item/1005008164935173.html)  |
+| Super Glue          | 2.75      | 3.71      | [Buy](https://www.aliexpress.com/item/1005008583356354.html)  |
+| Hex Nuts            | 0.82      | 1.11      | [Buy](https://www.aliexpress.com/item/4000602853448.html)     |
+| Switches (x5)       | 2.55      | 3.44      | [Buy](https://www.aliexpress.com/item/1005006578935785.html)  |
+| Diodes (x4)         | 2.84      | 3.83      | [Buy](https://www.aliexpress.com/item/1005006245109375.html)  |
+| Rubber O-Rings      | 0.58      | 0.78      | [Buy](https://www.aliexpress.com/item/32965363255.html)       |
+| Switch Pads         | 2.54      | 3.43      | [Buy](https://www.aliexpress.com/item/1005006454684461.html)  |
+| Rotary Encoders     | 1.90      | 2.57      | [Buy](https://www.aliexpress.com/item/1005005983134515.html)  |
+| Flux                | 4.09      | 5.52      | [Buy](https://www.aliexpress.com/item/1005006588523672.html)  |
+| Switch Film         | 2.01      | 2.71      | [Buy](https://www.aliexpress.com/item/1005006584258877.html)  |
+| Hex Screws          | 7.44      | 10.04     | [Buy](https://www.aliexpress.com/item/1005004833667162.html)  |
+| Rotary Encoder Caps | 1.06      | 1.43      | [Buy](https://www.aliexpress.com/item/1005005983134515.html)  |
+| Raspberry Pi Pico   | 2.08      | 2.81      | [Buy](https://www.aliexpress.com/item/1005008513003531.html)  |
+| USB Cable (Micro)   | 0.93      | 1.26      | [Buy](https://www.aliexpress.com/item/1005007138392516.html)  |
+| JLCPCB PCB          | 46.27     | 62.46     | [Buy](https://www.jlcpcb.com)                                 |
+| Royal Mail Shipping | 3.35      | 4.52      | [Buy](https://www.royalmail.com)                             |
+
+**Total Cost:**  
+- Pounds: £111.65  
+- Dollars: $150.72  
+*(With a $1 discount, that’s $149.72!)*
+
+---
+
+## Why GameBoard V2?
+
+- **Personalized Design:** Crafted for comfort, style, and daily use.
+- **Full ISO Layout:** 105 keys for maximum productivity and gaming.
+- **Rotary Encoder:** Effortless, tactile volume control.
+- **Affordable Build:** Premium feel, all for under $150.
+
+---
+
+## Get Involved
+
+Want to build your own GameBoard V2? All design files, schematics, and the full BOM are included in this repository. Have questions or feedback? Open an issue or reach out!
+
+---
